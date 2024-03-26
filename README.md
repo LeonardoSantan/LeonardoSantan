@@ -1,10 +1,10 @@
-<h6 align="left">Hi 👋 I'm Leonardo Santana, a Software Engineering student with a passion for technology and data. I'm currently immersed in the world of development using Python as my main tool.<br><br>Projects and Collaborations<br>💻 I'm part of the LAMIA project (Laboratory of Modeling and Applied Computational Intelligence) at UTFPR. Check out our activities at LAMIA UTFPR.<br>Interests<br>🎮 In my spare time, you'll find me playing racing games or immersed in building virtual factories.<br>Contact<br>📧 Want to chat? Feel free to contact me at: leofelip2001@gmail.com<br><br>Translated with DeepL.com (free version)</h6>
+<h5 align="left">Hi 👋 I'm Leonardo Santana, a Software Engineering student with a passion for technology and data. I'm currently immersed in the world of development using Python as my main tool.<br><br>Projects and Collaborations<br>💻 I'm part of the LAMIA project (Laboratory of Modeling and Applied Computational Intelligence) at UTFPR. Check out our activities at LAMIA UTFPR.<br>Interests<br>🎮 In my spare time, you'll find me playing racing games or immersed in building virtual factories.<br>Contact<br>📧 Want to chat? Feel free to contact me at: leofelip2001@gmail.com<br><br>Translated with DeepL.com (free version)</h5>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoSantana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoSantana&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoSantan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoSantan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -21,7 +21,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LeonardoSantana/LeonardoSantana/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/LeonardoSantan/LeonardoSantan/output/snake.svg" alt="Snake animation" />
 
 ###
 
