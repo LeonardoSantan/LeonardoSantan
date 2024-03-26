@@ -9,8 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/sTCZSSvRDrSe4DGJAV/giphy.gif?cid=ecf05e47dp1wngfg10enq7v6jxist6ll2s9w4hg8wf79mdx3&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
 ###
 
 <div align="left">
@@ -19,11 +17,6 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/LeonardoSantan/LeonardoSantan/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
