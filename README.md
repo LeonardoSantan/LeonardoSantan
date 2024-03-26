@@ -12,7 +12,7 @@
 ###
 
 <div align="left">
-  <a href="http://www.causality.inf.ethz.ch/styles/kaggle-logo.png" target="_blank">
+  <a href="https://www.kaggle.com/anotherhero" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.png" height="45" alt="Kaggle logo"  />
   </a>
 <div align="left">
