@@ -13,7 +13,7 @@
 
 <div align="left">
   <a href="https://www.kaggle.com/anotherhero" target="_blank">
-    <img src="https://www.dataapplab.com/wp-content/uploads/2016/10/kaggle-logo-transparent-300-1024x465.png" height="35" alt="Kaggle logo"  />
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.png" height="35" alt="Kaggle logo"  />
   </a>
 <div align="left">
   <a href="https://www.linkedin.com/in/lfgsantana/" target="_blank">
