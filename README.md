@@ -13,7 +13,7 @@
 
 <div align="left">
   <a href="https://www.kaggle.com/anotherhero" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.png" height="45" alt="Kaggle logo"  />
+    <img src="https://cdn.worldvectorlogo.com/logos/kaggle-1.svg" height="45" alt="Kaggle logo"  />
   </a>
 <div align="left">
   <a href="https://www.linkedin.com/in/lfgsantana/" target="_blank">
