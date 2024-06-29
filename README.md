@@ -30,7 +30,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="60" alt="amazonwebservices logo"  />
+  <img src="[https://cdn.simpleicons.org/amazonaws/232F3E](https://cdn.worldvectorlogo.com/logos/kaggle-1.svg)" height="60" alt="amazonwebservices logo"  />
 </div>
 
 ###
